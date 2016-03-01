@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is a very awesome project
-This is going to help me with Git.
+This is really going to help me with Git.
+=======
+This is an awesome project
+This is really going to help me with Git.
+>>>>>>> foo_feature
